@@ -361,6 +361,7 @@ li + li { margin-top: .55rem; }
 }
 .site-footer p { margin: 0; }
 .site-footer a { font-weight: 900; color: var(--navy); }
+.footer-links { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; }
 
 .resume-page { background: #eef2f7; }
 .resume-sheet {
